@@ -4,7 +4,7 @@ An end-to-end data analysis project exploring Apple's global sales performance u
 
 ## Dashboard Preview
 
-![Apple Sales Dashboard](Screenshot (312).png)
+![Apple Sales Dashboard](https://github.com/shubhampandey75/Apple-Sales-Data/blob/main/Screenshot%20(312).png)
 
 ## Project Overview
 
