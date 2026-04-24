@@ -1,4 +1,4 @@
-# 🍎 Apple Global Sales Analysis
+# Apple Global Sales Analysis
 
 An end-to-end data analysis project exploring Apple's global sales performance using **Python** for data processing and visualization, and **Power BI** for interactive dashboarding.
 
@@ -6,19 +6,19 @@ An end-to-end data analysis project exploring Apple's global sales performance u
 
 ![Apple Sales Dashboard](dashboard.png)
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Apple's global sales dataset to uncover trends across products, regions, time periods, customer segments, and sales channels. The goal is to derive actionable business insights from the data using both exploratory analysis and visual storytelling.
 
-## 🔍 Key Insights
+## Key Insights
 
 | Metric | Value |
 |---|---|
-| 💰 Total Revenue | $18.04M |
-| 📦 Total Units Sold | 23K |
-| 🛒 Avg Units Per Order | 2.02 |
-| 🏷️ Avg Discount | 3.84% |
-| ⭐ Avg Customer Rating | 4.00 |
+| Total Revenue | $18.04M |
+| Total Units Sold | 23K |
+| Avg Units Per Order | 2.02 |
+| Avg Discount | 3.84% |
+| Avg Customer Rating | 4.00 |
 
 - **Best Product:** Mac ($8.4M) led revenue, followed by iPhone ($5.7M) and iPad ($1.8M)
 - **Best Month:** October was the top-performing month, followed by December and March
@@ -28,7 +28,7 @@ This project analyzes Apple's global sales dataset to uncover trends across prod
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python** — Data cleaning, EDA, and visualization
   - `pandas` — Data manipulation
@@ -39,7 +39,7 @@ This project analyzes Apple's global sales dataset to uncover trends across prod
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 apple-sales-analysis/
@@ -53,7 +53,7 @@ apple-sales-analysis/
 
 ---
 
-## 📈 Analysis Performed
+## Analysis Performed
 
 **Python (EDA & Visualization)**
 - Null value detection and imputation (customer ratings filled using product-level mean)
@@ -72,7 +72,7 @@ apple-sales-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -94,9 +94,9 @@ apple-sales-analysis/
 
 ---
 
-## 📂 Dataset
+## Dataset
 
-- **Source:** [Kaggle – Apple Global Sales Dataset](https://www.kaggle.com/) *(update with actual link)*
+- **Source:** [Kaggle – Apple Global Sales Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ashyou09/apple-global-product-sales-dataset?resource=download))
 - **Records:** Global Apple product sales transactions
 - **Key Columns:** `product_name`, `revenue_usd`, `units_sold`, `country`, `region`, `month`, `year`, `sales_channel`, `customer_age_group`, `customer_rating`, `discount_pct`, `color`, `return_status`
 
