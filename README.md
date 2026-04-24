@@ -96,7 +96,7 @@ apple-sales-analysis/
 
 ## Dataset
 
-- **Source:** [Kaggle – Apple Global Sales Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ashyou09/apple-global-product-sales-dataset?resource=download))
+- **Source:** [Kaggle – Apple Global Sales Dataset](https://www.kaggle.com/](https://www.kaggle.com/datasets/ashyou09/apple-global-product-sales-dataset?resource=download)
 - **Records:** Global Apple product sales transactions
 - **Key Columns:** `product_name`, `revenue_usd`, `units_sold`, `country`, `region`, `month`, `year`, `sales_channel`, `customer_age_group`, `customer_rating`, `discount_pct`, `color`, `return_status`
 
