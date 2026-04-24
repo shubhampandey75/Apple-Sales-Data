@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project exploring Apple's global sales performance using **Python** for data processing and visualization, and **Power BI** for interactive dashboarding.
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Apple Sales Dashboard](dashboard.png)
 
